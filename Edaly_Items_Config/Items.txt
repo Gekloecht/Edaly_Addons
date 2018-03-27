@@ -1,0 +1,4 @@
+Sac mortuaire                      "a3\props_f_orange\humanitarian\camps\bodybag_01_folded_f.p3d"
+Stéthoscope                        "a3\props_f_orange\humanitarian\camps\stethoscope_01_f.p3d"
+Tablettes de potabilisation        "a3\structures_f_epa\items\medical\waterpurificationtablets_f.p3d"
+Trousse de secours                 "a3\props_f_orange\humanitarian\camps\firstaidkit_01_closed_f.p3d"

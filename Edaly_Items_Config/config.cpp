@@ -360,4 +360,29 @@ class CfgMagazines
 		descriptionShort = "";
 		mass = 3;
 	};
+	class Edaly_Items_Billet_Dollar_01_F: Edaly_Items_Base_F
+	{
+		scope = 2;
+		displayName = "Billet de 1 dollar";
+		model = "\Edaly_Items_Assets_1\Billet_Dollar_F.p3d";
+		picture = "\Edaly_Items_Assets_1\UI\Edaly_Items_CerealsBox_01_F.paa";
+		descriptionShort = "";
+		mass = 1.5;
+	};
+};
+
+class CfgGlasses
+{
+	class None;
+	class Edaly_Cigar_01_F: None
+	{
+		author="Edaly Teams";
+		scope = 2;
+		mass=3;
+		displayName="Cigar cubain";
+		model="\Edaly_Items_Assets_1\Cigar_F.p3d";
+		picture="\Edaly_Items_Assets_1\UI\Edaly_Items_Cigar_01_F.paa";
+		descriptionShort = "";
+		identityTypes[]={};
+	};
 };

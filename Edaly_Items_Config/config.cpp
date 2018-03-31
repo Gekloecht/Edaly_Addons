@@ -369,6 +369,51 @@ class CfgMagazines
 		descriptionShort = "";
 		mass = 1.5;
 	};
+		class Edaly_Items_Abricot_01_F: Edaly_Items_Base_F
+	{
+		scope = 2;
+		displayName = "Abricot";
+		model = "\Edaly_Items_Assets_1\Abricot_F.p3d";
+		picture = "\Edaly_Items_Assets_1\UI\Edaly_Items_Abricot_01_F.paa";
+		descriptionShort = "Petit fruit qui est bon";
+		mass = 1.5;
+	};	
+	class Edaly_Items_Citron_01_F: Edaly_Items_Base_F
+	{
+		scope = 2;
+		displayName = "Citron vert";
+		model = "\Edaly_Items_Assets_1\Citron_F.p3d";
+		picture = "\Edaly_Items_Assets_1\UI\Edaly_Items_Abricot_01_F.paa";
+		descriptionShort = "Petit fruit qui est bon";
+		mass = 1.5;
+	};
+	class Edaly_Items_Cerise_01_F: Edaly_Items_Base_F
+	{
+		scope = 2;
+		displayName = "Cerise";
+		model = "\Edaly_Items_Assets_1\Cerise_F.p3d";
+		picture = "\Edaly_Items_Assets_1\UI\Edaly_Items_Abricot_01_F.paa";
+		descriptionShort = "Petit fruit qui est bon";
+		mass = 1.5;
+	};
+	class Edaly_Items_Mangue_01_F: Edaly_Items_Base_F
+	{
+		scope = 2;
+		displayName = "Mangue";
+		model = "\Edaly_Items_Assets_1\Mangue_F.p3d";
+		picture = "\Edaly_Items_Assets_1\UI\Edaly_Items_Abricot_01_F.paa";
+		descriptionShort = "Petit fruit qui est bon";
+		mass = 1.5;
+	};
+	class Edaly_Items_Noixdecoco_01_F: Edaly_Items_Base_F
+	{
+		scope = 2;
+		displayName = "Noix de coco";
+		model = "\Edaly_Items_Assets_1\Noixdecoco_F.p3d";
+		picture = "\Edaly_Items_Assets_1\UI\Edaly_Items_Abricot_01_F.paa";
+		descriptionShort = "Petit fruit qui est bon";
+		mass = 1.5;
+	};
 };
 
 class CfgGlasses
